@@ -1,0 +1,7 @@
+{
+  "name": "LensFlow - AI Dynamic Photo Timeline",
+  "description": "A sophisticated photo management platform that uses AI to categorize photos, generate an interactive timeline, and bring images to life using motion effects and Veo video generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
